@@ -1,31 +1,29 @@
 Link to unlisted youtube video:
-https://youtube.com/.....
+https://youtu.be/o3DIkA9a4tw
 
 Two public link to the Concept Map (anyone on the internet can view without login):
-PDF: 
-https://github.com/annajiat/CSE123/blob/main/submission3/Concept%20Map.pdf
+PNG: 
+https://github.com/Fahim-Ferdous/CSE449/blob/main/submission3/Concept%20Map.png
 Native/original format: 
-https://draw.io/...
+https://app.diagrams.net/#G1y_b7bk2SKhfntpWcVlSnO4Ib0bgVHU7V
 
 Name, Author, Edition, year and publisher of the Book:
-Speech and Language Processing
-Jurafsky
-3rd edition
-2014
-Pearson
+Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+Martin Kleppmann 
+1st edition
+2017
+O'Reilly
 
 Link to the book:
-https://amazon.com/...
+https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321
 
 Link to the book chapter:
-https://books.google.com/books...
+Unavailable
 
 Group Number:
-0
+6
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+17301143 Shah Abul Hasnat Chowdhury
+17301148 MD. Esadulhaq
+20216010 Fahim Ferdous
